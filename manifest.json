@@ -1,0 +1,10 @@
+{
+	"id": "contentful-publisher",
+	"name": "Contentful Publisher",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Manage your Contentful content from Obsidian.",
+	"author": "Ziya Fenn",
+	"authorUrl": "https://ziyafenn.com",
+	"isDesktopOnly": false
+}
